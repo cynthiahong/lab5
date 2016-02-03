@@ -23,12 +23,12 @@
 		{
 			"name": "Grace Hopper",
 			"description": "Only friend with a Navy ship named after them",
-			"imageURL": "http://www.personal.psu.edu/djd5202/gHop.jpg"
+			"imageURL": "https://c2.staticflickr.com/6/5252/5403292396_0804de9bcf_b.jpg"
 		},
 		{
 			"name": "Allen Newell",
 			"description": "Really into psychology",
-			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+			"imageURL": "http://www.rockstart.com/wp-content/uploads/2012/06/bas-300x300.jpg"
 		}
 	]
 }
